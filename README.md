@@ -10,7 +10,7 @@ This VS Code Extension Pack adds features and language support for web developme
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -
   VS Code plugin for prettier/prettier
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Markdown Support for VS Code
-- [Devpack Boot](https://marketplace.visualstudio.com/items?itemName=yessky.devpack-boot) - Install global ESLint & QAKit
+- [Devpack Bootstrap](https://marketplace.visualstudio.com/items?itemName=yessky.devpack-boot) - Auto Installer for some npm packages like ESLint & QAKit
 - Tabnine
 - Codesnap
 - and more...

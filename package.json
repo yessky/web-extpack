@@ -11,7 +11,7 @@
     "prettier",
     "frontend"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "yessky",
   "repository": {
     "url": "https://github.com/yessky/web-extpack"
@@ -40,7 +40,7 @@
     "octref.vetur",
     "rust-lang.rust-analyzer",
     "TabNine.tabnine-vscode",
-    "yessky.devpack-boot",
+    "yessky.devpack-bootstrap",
     "yzhang.markdown-all-in-one"
   ]
 }
