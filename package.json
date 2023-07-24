@@ -1,0 +1,47 @@
+{
+  "name": "web-extpack",
+  "displayName": "Popular Extension Pack For Web",
+  "description": "Popular VSCode Extensions for Web Dev",
+  "keywords": [
+    "vue",
+    "node",
+    "vuejs",
+    "javascript",
+    "eslint",
+    "prettier",
+    "frontend"
+  ],
+  "version": "0.0.1",
+  "publisher": "yessky",
+  "repository": {
+    "url": "https://github.com/yessky/web-extpack"
+  },
+  "bugs": {
+    "url": "https://github.com/yessky/web-extpack/issues"
+  },
+  "homepage": "https://github.com/yessky/web-extpack",
+  "icon": "toolkit.png",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "adpyke.codesnap",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    "hediet.vscode-drawio",
+    "mrmlnc.vscode-stylefmt",
+    "MS-CEINTL.vscode-language-pack-zh-hans",
+    "octref.vetur",
+    "rust-lang.rust-analyzer",
+    "TabNine.tabnine-vscode",
+    "yessky.devpack-boot",
+    "yessky.vue-extpack",
+    "yzhang.markdown-all-in-one"
+  ]
+}
